@@ -2,5 +2,30 @@
   {
     "email": "andre564533@gamil.com",
     "senha": "$2b$10$p77KApjBII3eFenoIYpEE.q9RTdjQpQTiim4/dCokXUjtxzDcWFCS"
+  },
+  {
+    "id": 1759404430901,
+    "email": "cidade@emal.com",
+    "senha": "$2b$10$5OIqlSvnGX7hCZ2B1RA5yunrXCfqVJzIeRW8b2JjVrYtwdwBvhf3i"
+  },
+  {
+    "id": 1759405938394,
+    "email": "lucas@emal.com",
+    "senha": "$2b$10$yoYpLudOVKFlrMc8Okgxfu5fG0S6Pcpd6QZByAXWyMnM2DBh0H1s6"
+  },
+  {
+    "id": 1759406859584,
+    "email": "dudu@gnail.com",
+    "senha": "$2b$10$maazNQAp4..WeDPAZaQcGOwzvd0awUwzEE6X7lsWwXkOoY61thwIG"
+  },
+  {
+    "id": 1759406915963,
+    "email": "bebe@gmail.com",
+    "senha": "$2b$10$FlmfO2PEmjfQXqlM.maftuR/SVUdyZRhi4LRiSNnbAWWnz/iD.sBS"
+  },
+  {
+    "id": 1759408249675,
+    "email": "dragao@gmail.com",
+    "senha": "$2b$10$2LFh6D2aeeHThrBg1lxnoOoc.JjOSgp6fGLw3Et8miP17Pb/6Ys6q"
   }
 ]
