@@ -27,5 +27,15 @@
     "id": 1759408249675,
     "email": "dragao@gmail.com",
     "senha": "$2b$10$2LFh6D2aeeHThrBg1lxnoOoc.JjOSgp6fGLw3Et8miP17Pb/6Ys6q"
+  },
+  {
+    "id": 1759499277634,
+    "email": "maozinha@gmail.com",
+    "senha": "$2b$10$inr7fgvb6rQCxknvkmQMkuaX2Qz3Prftqu1BGxd92rIxTr5YVMhs2"
+  },
+  {
+    "id": 1759499421857,
+    "email": "julin@gmail.com",
+    "senha": "$2b$10$paF.YAk0B0OoYcHrZV4n3OdwwNznDpeoswXaDyJ98bi3Y4lmuQHcu"
   }
 ]

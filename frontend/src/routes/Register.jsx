@@ -38,7 +38,7 @@ const Register = () => {
           
           {/* Campo Email */}
           <div>
-            <label htmlFor="email" className="block text-sm font-semibold text-rose-200 mb-2">
+            <label htmlFor="email" className="block text-sm  text-rose-200 mb-2">
               Email
             </label>
             <input
@@ -48,7 +48,7 @@ const Register = () => {
               onChange={(e) => setEmail(e.target.value)}
               required
               // Estilo de input mais elegante
-              className="appearance-none block w-full px-4 py-3 border border-violet-600 rounded-xl shadow-inner placeholder-pink-400 focus:outline-none focus:ring-4 focus:ring-indigo-200 focus:border-indigo-600 sm:text-base transition duration-150 ease-in-out"
+              className="appearance-none block w-full px-4 py-3 border border-violet-600 rounded-xl shadow-inner placeholder-pink-400 focus:outline-none focus:ring-4 focus:ring-indigo-200 focus:border-indigo-600 sm:text-base transition duration-150 ease-in-out text-white"
               placeholder="Digite seu melhor email"
             />
           </div>
@@ -65,7 +65,7 @@ const Register = () => {
               onChange={(e) => setSenha(e.target.value)}
               required
               // Estilo de input mais elegante
-              className="appearance-none block w-full px-4 py-3 border border-violet-600 rounded-xl shadow-inner placeholder-pink-400 focus:outline-none focus:ring-4 focus:ring-indigo-200 focus:border-indigo-600 sm:text-base transition duration-150 ease-in-out"
+              className="appearance-none block w-full px-4 py-3 border border-violet-600 rounded-xl shadow-inner placeholder-pink-400 focus:outline-none focus:ring-4 focus:ring-indigo-200 focus:border-indigo-600 sm:text-base transition duration-150 ease-in-out text-white"
               placeholder="Crie uma senha forte"
             />
           </div>
